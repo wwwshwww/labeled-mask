@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "labeled-mask"
-version = "0.1.0"
+name = "labeled_mask"
+version = "0.1.1"
 description = "Provide interface of tagged mask that make easy to squeeze target data from array"
 authors = ["wwwshwww <www.shinderu.www@gmail.com>"]
 license = "MIT"
